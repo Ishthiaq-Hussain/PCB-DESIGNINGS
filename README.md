@@ -1,5 +1,5 @@
 # PCB-DESIGNINGS
-Images of PCB design 
+Images of circuit's PCB design 
 ### Controlling buzzer sound circuit
 ![Alt-text](https://github.com/Ishthiaq-Hussain/PCB-DESIGNINGS/blob/master/Controlling%20buzzer%20sound.PNG)
 ### Circuit with LED and different switches
